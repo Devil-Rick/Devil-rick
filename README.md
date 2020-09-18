@@ -1,4 +1,4 @@
-#fff5b1, $bg-yellow-light
+
 <h1 align="center">Saptarshi Welcomes U</h1>
 
 <h3>How to reach me:</h3>
