@@ -28,24 +28,24 @@
         <img src="https://img.shields.io/badge/c%20-%230077B5.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
         <br>
-    </div><br><br>
+    </div><br>
     <div>
     <strong>Front End:</strong><br>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />&nbsp;
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;<br>
+    <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />&nbsp;<br>
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;
-</div><br><br>
+</div><br>
     <div>   
         <strong>Backend:</strong><br>
     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
- </div><br><br>
+ </div><br>
     <div>
     <strong>Designing:</strong><br>
    <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;<br>
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
 </div>
