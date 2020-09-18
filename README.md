@@ -1,6 +1,14 @@
 
 <h1 align="center">Saptarshi Welcomes U</h1>
 
+<p align="center">
+🎓 Pursuing <strong>B.Tech in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2022</strong>)
+<br>
+🕸 Aspiring <strong>Fullstack Web Developer</strong>.Currently getting my hands dirty with <strong>Front-End</strong>.
+<br>
+    🎮 Loves to play games.Both <strong>Real</strong> and <strong>Virtual</strong>.🎮
+</p>
+
 <h3>How to reach me:</h3>
 
 <p align="center">
@@ -15,40 +23,40 @@
 <hr>
 
 <h2>Skills-Set</h2>
-<p>
-    <span>Programming Languages:</span><br>
-    <img src="https://img.shields.io/badge/c%20-%230077B5.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-    
-   <br>
-    
-   <span>Front End:</span><br>
+    <div>
+        Programming Languages:
+        <img src="https://img.shields.io/badge/c%20-%230077B5.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+        <br>
+    </div>
+    <div>
+    Front End:
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />&nbsp;<br>
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;<br>
+   <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;
-   <br>
-   
-   <span>Backend:</span><br>
+</div>
+    <div>   
+    Backend:
     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
-   <br>
-    
-   <span>Designing:</span><br>
+ </div>
+    <div>
+    Designing:
    <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;<br><br>
+   <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
-</p> 
+</div>
+    
+    
+   
+   
+
+    
 
 <hr>
 
-<p align="center">
-🎓 Pursuing <strong>B.Tech in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2022</strong>)
-<br>
-🕸 Aspiring <strong>Fullstack Web Developer</strong>.Currently getting my hands dirty with <strong>Front-End</strong>.
-<br>
-    🎮 Loves to play games.Both <strong>Real</strong> and <strong>Virtual</strong>.🎮
-</p>
+
 
