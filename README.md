@@ -1,12 +1,15 @@
 <h1 align="center">Saptarshi Welcomes U</h1>
 
-<p align="center">
-    <a href="https://twitter.com/AyushmanBThakur"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AyushmanBThakur?color=09f&label=%40AyushmanBThakur&logo=twitter&logoColor=09f&style=for-the-badge&labelColor=black"></a>
-    <a href="https://www.ayushmanbthakur.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=portfolio&url=https%3A%2F%2Fwww.ayushmanbthakur.com&labelColor=black"></a>
-    <a href="https://dev.to/ayushmanbthakur"><img alt="Dev.To Blog" src="https://img.shields.io/website?label=blog&logo=blogger&logoColor=orange&style=for-the-badge&up_color=blue&up_message=dev.to&url=https%3A%2F%2Fdev.to%2Fayushmanbthakur&labelColor=black"></a>
-    <a href="https://www.youtube.com/channel/UCH231SbWa_bjKUvVFTYMj8g"><img alt="YouTube" src="https://img.shields.io/website?color=09F&label=YouTube&logo=youtube&logoColor=red&style=for-the-badge&up_message=cheek%20out&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCH231SbWa_bjKUvVFTYMj8g%3Fview_as%3Dsubscriber&labelColor=black"></a>
-</p>
+<h3>How to reach me:</h3>
 
+<p align="center">
+    <a href="https://www.facebook.com/people/Aayush-Agarwal/100004764855806"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
+    <a href="https://www.instagram.com/KylixMedusa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+    <a href="https://twitter.com/Aayush967988"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/aayush-agarwal-214b5a17b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+    <a href="mailto:ayush.agarwalmng@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    
+ </p>
 <br>    
 
 <p align="center">
