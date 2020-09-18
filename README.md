@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Ayushman</h1>
+<h1 align="center">Saptarshi Welcomes U</h1>
 
 <p align="center">
     <a href="https://twitter.com/AyushmanBThakur"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AyushmanBThakur?color=09f&label=%40AyushmanBThakur&logo=twitter&logoColor=09f&style=for-the-badge&labelColor=black"></a>
@@ -10,15 +10,10 @@
 <br>    
 
 <p align="center">
-🎓 Currently studying <strong>B.Tech in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2022</strong>)
+🎓 Pursuing <strong>B.Tech in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2022</strong>)
 <br>
-🕸 Practising <strong>Fullstack Web Development</strong>
+🕸 Aspiring <strong>Fullstack Web Developer</strong>.Currently getting my hands dirty with <strong>Front-End</strong>.
 <br>
-💻 Trying to document my learnings on <a href="https://dev.to/ayushmanbthakur">dev.to</a>
-<br>  
-📽 Making videos about the things I am learning on <a href="https://www.youtube.com/channel/UCH231SbWa_bjKUvVFTYMj8g">YouTube</a> 
-<br>
-🎮 Once made games using GameMaker Studio and Unity, can check them out at <a href="https://ayushman001.itch.io/">itch.io</a> 
+    🎮 Loves to play games.Both <strong>Real</strong> and <strong>Virtual</strong>.🎮
 </p>
 
-<h3 align="center">Want to play a fun little game?🎮 <a href="https://oddneven.netlify.app/">Click Here</a></h3>
