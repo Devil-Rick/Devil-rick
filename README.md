@@ -4,7 +4,7 @@
 <p align="center">
 🎓 Pursuing <strong>B.Tech in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2022</strong>)
 <br>
-🕸 Aspiring <strong>Fullstack Web Developer</strong>.Currently getting my hands dirty with <strong>Front-End</strong>.
+🕸 Aspiring <strong>Machine Learning Engineer</strong>.Currently getting my hands dirty with <strong>Front-End</strong>.
 <br>
     🎮 Loves to play games.Both <strong>Real</strong> and <strong>Virtual</strong>.🎮
 </p>
