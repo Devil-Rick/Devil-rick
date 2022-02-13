@@ -4,7 +4,7 @@
 <p align="center">
 🎓 Pursuing <strong>B.Tech in Computer Science and Engineering</strong>(Expected to pass out in <strong>July, 2022</strong>)
 <br>
-🕸 Aspiring <strong>Machine Learning Engineer</strong>.Currently getting my hands dirty with <strong>Data Cleaning and Visualization </strong>.
+🕸 Aspiring <strong>Machine Learning Engineer</strong>.Currently getting my hands dirty with <strong>Natural Language Processing </strong>.
 <br>
     🎮 Loves to play games.Both <strong>Real</strong> and <strong>Virtual</strong>.🎮
 </p>
