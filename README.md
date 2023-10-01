@@ -4,7 +4,9 @@
 <p align="center">
 🎓 <strong>B.Tech in Computer Science and Engineering</strong>
 <br>
-🕸 Aspiring <strong>Machine Learning Engineer</strong>.Currently getting my hands dirty with <strong>Natural Language Processing </strong>.
+    Currently working in <strong> Infosys as Systems Engineer </strong> with knowledge of python selenium and sql.
+<br>
+🕸 Aspiring <strong>Full Stack Developer</strong>.Currently getting my hands dirty with <strong>Backend Programming </strong>.
 <br>
     🎮 Loves to play games.Both <strong>Real</strong> and <strong>Virtual</strong>.🎮
 </p>
